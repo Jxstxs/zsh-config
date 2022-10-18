@@ -6,3 +6,5 @@ git-extras
 jsontools
 colorize
 zsh-syntax-highlighting
+zsh-autocomplete
+zsh-autosuggestions
