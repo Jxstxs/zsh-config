@@ -1,5 +1,5 @@
 # important exports
-export ZSH=$HOME/.local/src/oh-my-zsh
+export ZSH=$HOME/.repos/other/ohmyzsh
 
 # omz config exports
 export ZSH_COMPDUMP="${TMP}/.zcompdump-${SHORT_HOST}-${ZSH_VERSION}"
